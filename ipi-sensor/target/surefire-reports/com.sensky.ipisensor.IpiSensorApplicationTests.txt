@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sensky.ipisensor.IpiSensorApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.115 s - in com.sensky.ipisensor.IpiSensorApplicationTests
